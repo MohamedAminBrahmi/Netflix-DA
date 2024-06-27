@@ -16,18 +16,19 @@ This project aims to analyze a dataset of Netflix shows and movies to uncover in
 </ul>
 
 <h2>Data Sources</h2>
+The primary data source for this project is a Netflix dataset, which includes the following attributes:
 <ul>
-    <li><b>Show_Id:</b></li>
-    <li><b>Category:</b></li>
-    <li><b>Title:</b></li>
-    <li><b>Director:</b></li>
-    <li><b>Cast:</b></li>
-    <li><b>Country:</b></li>
-    <li><b>Release_Date:</b></li>
-    <li><b>Rating:</b></li>
-    <li><b>Duration:</b></li>
-    <li><b>Type:</b></li>
-    <li><b>Description:</b></li>
+    <li><b>Show_Id.</b></li>
+    <li><b>Category.</b></li>
+    <li><b>Title.</b></li>
+    <li><b>Director.</b></li>
+    <li><b>Cast.</b></li>
+    <li><b>Country.</b></li>
+    <li><b>Release_Date.</b></li>
+    <li><b>Rating.</b></li>
+    <li><b>Duration.</b></li>
+    <li><b>Type.</b></li>
+    <li><b>Description.</b></li>
 </ul>
 
 
